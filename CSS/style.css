@@ -69,22 +69,22 @@ border: 1px solid var(--branding-color);
 padding: 120px 60px;
 }
 
-.about-section {
+.content-container {
     padding: 160px 20px;
     }
 
- .about-section h1 {
+ .content-container h1 {
   font-size: 64px;
 line-height: 80px;
         }
         
-.about-section h2 { 
+.container h2 { 
  font-family: var(--default-font-family);
  font-size: 18px;
         }
         
         
-.about-section-content {
+.content {
  margin: 30px;
  }
 
@@ -107,7 +107,7 @@ text-align: center;
 padding: 80px 20px;
 }
 
-.about-section {
+.content-container {
 text-align: center;
 padding: 0;
 }

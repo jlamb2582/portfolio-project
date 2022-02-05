@@ -60,11 +60,6 @@ font-weight: bold;
 font-family: var(--heading-font-family);
 }
 
-h4 {
-font-size: 48px;
-font-family: var(--heading-font-family);
-}
-
 .btn-branding-outline {
 border-radius: 4px;
 font-size: 18px;
@@ -161,6 +156,11 @@ background: var(--branding-color);
 .nav-item {
 padding: 0 10px;
 font-family: var(--default-font-family) !important;
+ }
+
+ h4 {
+font-size: 48px;
+font-family: var(--heading-font-family);
  }
 
 @media (max-width: 900px) {

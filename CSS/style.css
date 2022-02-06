@@ -69,6 +69,11 @@ color: var(--branding-color);
 border: 1px solid var(--branding-color);
 }
 
+.btn-branding-outline:hover {
+background: var(--branding-color);
+color: white;
+}
+
 .project-description {
 padding: 120px 60px;
 }
@@ -158,7 +163,7 @@ padding: 0 10px;
 font-family: var(--default-font-family) !important;
  }
 
- h4 {
+ h3 {
 font-size: 48px;
 font-family: var(--heading-font-family);
  }
@@ -173,7 +178,7 @@ h2 {
 font-size: 44px;
 }
 
-h4 {
+h3 {
 font-size: 26px;
 }
 
